@@ -3,6 +3,7 @@
 ![imagen](https://github.com/user-attachments/assets/495d26a1-dd41-4389-bcfa-4c9410ad57ee)
 
 https://snyk.io/series/devsecops/
+https://www.microsoft.com/es-co/security/business/security-101/what-is-devsecops
 
 ¿Cuál es la diferencia entre DevOps y DevSecops?
 
